@@ -19,7 +19,7 @@ curl -o ~/.config/vifm/colors/kanagawa.vifm \
 Then, add this line to your vifmrc:
 
 ```vimscript
-:colorscheme kanagawa
+colorscheme kanagawa
 ```
 
 If the line exist place `kanagawa` as the first color scheme on the themes list.
